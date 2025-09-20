@@ -1,1 +1,1 @@
-# RAG_with_Gemmini
+# RAG_with_Gemini
